@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Data Science Fundamentals
+title: Machine Learning for Medicine
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
+instructor: Marco Reed, Iona Biggart, Kevin Meck, 
+year: 2026
 term: Spring
-location: Science Building, Room 202
+location: Harare, Zimbabwe
 time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+course_id: ml4h
 schedule:
   - week: 1
     date: Feb 5
